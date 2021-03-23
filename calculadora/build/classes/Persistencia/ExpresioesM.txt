@@ -1,0 +1,4 @@
+a^b+(c*d)
+a*b+(c-d)
+A+(B/C)-(D*E)+F^G
+a+b+(c-d)
